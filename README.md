@@ -13,7 +13,7 @@ The report analyzes 4 real-world style phishing email samples, identifies common
 
 ## Emails Analyzed
 
-| # | Email Type | Attack Category | Risk Level |
+| Sr. | Email Type | Attack Category | Risk Level |
 |---|-----------|----------------|------------|
 | 1 | Fake PayPal Security Alert | Brand Impersonation | Critical |
 | 2 | Fake IT Password Reset | Credential Harvesting | Critical |
